@@ -1,6 +1,6 @@
-awwwards-challenge
+<h1>Awwwards Challenge</h1>
 
-Project Description.
+##Project Description.
 
 This is a series of projects made by different developers to improve our web development skill by creating a series of web sites day after day and at the end aim to create [awwwards](https://www.awwwards.com/) winning level websites using the Javascript animation library [GSAP](https://greensock.com/gsap/)
 
