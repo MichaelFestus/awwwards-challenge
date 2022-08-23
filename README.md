@@ -17,4 +17,4 @@ If you would like to contribute to this amazing project, you can create a Pull R
 Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 
-We can be contacted through via our various twitter accounts [@ibrahimraimi\_](https://twitter.com/ibrahimraimi_) [Vinci](https://twitter.com/Harnassus) [N3RD](https://twitter.com/web_n3rd) [Chappy](https://twitter.com/moyomi_fe)
+We can be contacted via our various twitter accounts [@ibrahimraimi_](https://twitter.com/ibrahimraimi_) [@Vinci](https://twitter.com/Harnassus) [@N3RD](https://twitter.com/web_n3rd) [@Chappy](https://twitter.com/moyomi_fe)
